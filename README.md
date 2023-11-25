@@ -37,13 +37,13 @@ When two tiles with the same number collide, they merge into a new tile with a v
 
 **References used while building:**
 
-Game Logo - www.facebook.com/the2048game/
+Game Logo - facebook.com/the2048game/
 
 Audio - developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
 
-Audio Source - www.chosic.com/free-music/all/?keyword=mozart%20serenade
+Audio Source - chosic.com/free-music/all/?keyword=mozart%20serenade
 
-Basic Structure and logic - www.geeksforgeeks.org/design-a-2048-game-in-javascript/
+Basic Structure and logic - geeksforgeeks.org/design-a-2048-game-in-javascript/
 
 Fonts - fonts.google.com/
 
