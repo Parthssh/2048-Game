@@ -136,6 +136,8 @@ body {
 
   .score-container, #score, .score-title {
     font-size: 1.2rem; 
+    position: absolute;
+    bottom: 50px;
     
     
   }
