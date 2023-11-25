@@ -8,19 +8,19 @@
 Swipe on the screen (or use arrow keys) in the direction you want the tiles to move: up, down, left, or right. All tiles on the board will move in the direction you swiped. 
 When two tiles with the same number collide, they merge into a new tile with a value equal to the sum of the original tiles.
 
-Goal: The objective is to combine tiles to reach the 2048 tile.
+- Goal: The objective is to combine tiles to reach the 2048 tile.
 
-Strategic Moves: Plan your moves strategically to keep higher-value tiles in one corner. Combine tiles to free up space and create larger tiles.
+- Strategic Moves: Plan your moves strategically to keep higher-value tiles in one corner. Combine tiles to free up space and create larger tiles.
 
-Pay Attention to the Board: Keep an eye on the board to anticipate the consequences of each move. Avoid filling up the board with tiles, as the game ends if there are no more available moves.
+- Pay Attention to the Board: Keep an eye on the board to anticipate the consequences of each move. Avoid filling up the board with tiles, as the game ends if there are no more available moves.
 
-Scoring: Each merge scores points and the value of the new tile becomes your score.
+- Scoring: Each merge scores points and the value of the new tile becomes your score.
 
-Game Over: The game ends when there are no more available moves, and the board is full.
+- Game Over: The game ends when there are no more available moves, and the board is full.
 
-Restart: If you want to try again or aim for a higher score, you can restart the game.
+- Restart: If you want to try again or aim for a higher score, you can restart the game.
 
-Winning: If you successfully create a tile with the number 2048, you win the game.
+- Winning: If you successfully create a tile with the number 2048, you win the game.
 
 
 **Pages:**
@@ -37,15 +37,17 @@ Winning: If you successfully create a tile with the number 2048, you win the gam
 
 **References used while building:**
 
-Game Logo - https://www.facebook.com/the2048game/
+Game Logo - www.facebook.com/the2048game/
 
-Audio - https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
+Audio - developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
 
-Audio Source - https://www.chosic.com/free-music/all/?keyword=mozart%20serenade
+Audio Source - www.chosic.com/free-music/all/?keyword=mozart%20serenade
 
-Basic Structure and logic - https://www.geeksforgeeks.org/design-a-2048-game-in-javascript/
+Basic Structure and logic - www.geeksforgeeks.org/design-a-2048-game-in-javascript/
 
-Fonts - https://fonts.google.com/
+Fonts - fonts.google.com/
+
+Grid reference - medium.com/@aswingiftson007/2048-game-in-html-and-javascript-c6cc63d2698f
 
 
 **Deployed Link:**
@@ -53,6 +55,16 @@ https://2048gameplay.netlify.app/ (Use Full Screen to play the Game)
 
 *Double-click on the audio button for audio and single-click to mute.
 
+
+**ScreenShot**
+
+![Screenshot 2023-11-25 091049](https://github.com/Parthssh/2048-Game/assets/114278925/8a27de69-768c-4a05-809a-356311d79adf)
+
+![Screenshot 2023-11-25 091455](https://github.com/Parthssh/2048-Game/assets/114278925/0c903b08-bbfb-47fe-8329-700f6351306e)
+
+![Screenshot 2023-11-25 091110](https://github.com/Parthssh/2048-Game/assets/114278925/7234aa08-9516-4ee9-87fa-0c2ee09cfbb7)
+
+![Screenshot 2023-11-25 091156](https://github.com/Parthssh/2048-Game/assets/114278925/b266a843-2288-4def-b704-1835e5062548)
 
 
 
