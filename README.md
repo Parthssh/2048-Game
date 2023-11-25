@@ -34,6 +34,8 @@ Fonts - fonts.google.com/
 
 Grid reference - medium.com/@aswingiftson007/2048-game-in-html-and-javascript-c6cc63d2698f
 
+Colour palette - coolors.co/
+
 
 **Deployed Link:**
 https://2048gameplay.netlify.app/ (Use Full Screen to play the Game)
