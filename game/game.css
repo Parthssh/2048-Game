@@ -117,63 +117,45 @@ body {
 
 @media (max-width: 600px) {
   h1 {
-      font-size: 8vw; /* Adjusted font size for smaller screens */
-      top: 10%;
+    font-size: 3rem; 
   }
 
   .container {
-      width: 90%; /* Adjusted container width for smaller screens */
+    padding: 10px;
   }
 
   .grid {
-      width: 90%; /* Adjusted grid width for smaller screens */
-      max-width: none; /* Removed max-width for better scaling on smaller screens */
-      height: auto; /* Adjusted height to be responsive */
-      bottom: 10%;
+    gap: 10px;
+    padding: 10px;
   }
 
   .grid div {
-      width: 30%; /* Adjusted width for smaller screens */
-      height: auto; /* Adjusted height to be responsive */
-      margin: 2%;
-      font-size: 4vw; /* Adjusted font size for smaller screens */
+    font-size: 2rem;
+    line-height: 80px; 
   }
 
-  .score-container {
-      right: 5%; /* Adjusted right position for smaller screens */
-      bottom: 20%;
-      width: 50%; /* Adjusted width for smaller screens */
-      max-width: none; /* Removed max-width for better scaling on smaller screens */
-      height: 8vh; /* Adjusted height for smaller screens */
+  .score-container, #score, .score-title {
+    font-size: 1.2rem; 
+    
+    
   }
 
-  #score {
-      font-size: 3vw; /* Adjusted font size for smaller screens */
-  }
-
-  .score-title {
-      font-size: 2vw; /* Adjusted font size for smaller screens */
+  .score-container{
+    bottom: 50px;
   }
 
   #logo {
-      height: 15vw; /* Adjusted height for smaller screens */
-      left: 5%; /* Adjusted left position for smaller screens */
-      top: 5%;
+    height: 80px; 
   }
 
   #result {
-      font-size: 3vw; /* Adjusted font size for smaller screens */
-      top: 20%;
+    font-size: 1.2rem;
   }
 
-  #button {
-      right: 5%; /* Adjusted right position for smaller screens */
-      top: 18%;
-      width: 40%; /* Adjusted width for smaller screens */
-      height: 6vh; /* Adjusted height for smaller screens */
-  }
-
-  #playButton {
-     display: none;
-  }
+   #playButton {
+    background-color: rgb(40, 34, 34);
+    width: 900px; 
+    height: 40px;
+    line-height:40px;
+}
 }
